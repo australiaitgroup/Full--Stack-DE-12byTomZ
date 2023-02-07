@@ -1,13 +1,14 @@
-**Prerequisite – You should have:**   
-> * **A Creidt/Debit Card**  
-> * **A Email Address**  
-> * **A Phone Number**  
-> * **A multi-factor app on your mobile (Microsoft / Google Authenticator etc. )**  
+### **Prerequisite – You should have:**   
+> * ### **A Creidt/Debit Card**  
+> * ### **A Email Address**  
+> * ### **A Phone Number**  
+> * ### **A multi-factor app on your mobile (Microsoft / Google Authenticator etc. )**  
 
  
 
-#### Step 1: Go to AWS webiste:  https://aws.amazon.com/ and click ‘Create an AWS Account’  
-#### Step 2: Filled up email address and AWS account name., then click ‘Next’.  
+#### Step 1: Go to [AWS official webiste](https://aws.amazon.com/) and click ‘Create an AWS Account’  
+[Photo1][1]
+#### Step 2: Filled up email address and AWS account name., then click ‘Next’. 
 #### Step 3: Enter your verification code which received by your email. In my case, the verification code is 396093. Then, click ‘Verify’.  
 #### Step 4: Enter the root user password, please remember this password because you will use this soon. Then, click ‘Continue’.  
 #### Step 5: Fill up the basic info such as address, phone number and name. Tick Ithe box ‘I have read and agree...’.Then, click ‘Continue’.  
@@ -18,5 +19,5 @@
 #### Step 10: Now you are successfully sign up !!!  
 
  
-
+![1]:(https://1drv.ms/u/s!AlIOYPSK1ClJ_XlFw-iCnwBdbloI?e=r4NSpl)
  
