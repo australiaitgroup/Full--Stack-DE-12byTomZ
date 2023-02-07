@@ -7,7 +7,7 @@
  
 
 #### Step 1: Go to [AWS official webiste](https://aws.amazon.com/) and click ‘Create an AWS Account’  
-![Photo1][1]
+![Photo1](https://github.com/australiaitgroup/Full--Stack-DE-12byTomZ/blob/609359e782d75d2d4dc60dda96bbfe1b362c984b/how%20to%20create%20AWS%201.png)
 #### Step 2: Filled up email address and AWS account name., then click ‘Next’. 
 #### Step 3: Enter your verification code which received by your email. In my case, the verification code is 396093. Then, click ‘Verify’.  
 #### Step 4: Enter the root user password, please remember this password because you will use this soon. Then, click ‘Continue’.  
@@ -18,4 +18,3 @@
 #### Step 9: Choose ‘Baic support – Free' and click ‘Conitune sign up’.  
 #### Step 10: Now you are successfully sign up !!!  
 
-[1]:(https://github.com/australiaitgroup/Full--Stack-DE-12byTomZ/blob/609359e782d75d2d4dc60dda96bbfe1b362c984b/how%20to%20create%20AWS%201.png)
