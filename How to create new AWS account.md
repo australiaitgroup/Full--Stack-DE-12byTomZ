@@ -1,8 +1,8 @@
 **Prerequisite – You should have:**   
->* **A Creidt/Debit Card**  
->* **A Email Address**  
->* **A Phone Number**  
->* **A multi-factor app on your mobile (Microsoft / Google Authenticator etc. )**  
+> * **A Creidt/Debit Card**  
+> * **A Email Address**  
+> * **A Phone Number**  
+> * **A multi-factor app on your mobile (Microsoft / Google Authenticator etc. )**  
 
  
 
